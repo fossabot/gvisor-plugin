@@ -1,4 +1,6 @@
 # k0s gVisor Plugin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fk0sproject%2Fgvisor-plugin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fk0sproject%2Fgvisor-plugin?ref=badge_shield)
+
 
 This repo provides a plugin "installer" for k0s to setup [gVisor runtime](https://gvisor.dev/).
 
@@ -49,3 +51,7 @@ Vóila, now your Nginx is executed using gVisor.
 
 Currently gVisor supports `amd64` and `arm64` architectures and thus this installer also supports those.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fk0sproject%2Fgvisor-plugin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fk0sproject%2Fgvisor-plugin?ref=badge_large)
